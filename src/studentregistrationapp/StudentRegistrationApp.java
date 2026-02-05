@@ -6,7 +6,7 @@ import java.util.regex.*;
 
 /**
  *
- * @author anita
+ * @author peter muwonge
  */
 public class StudentRegistrationApp extends JFrame {
 

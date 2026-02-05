@@ -3,7 +3,7 @@ import java.sql.*;
 import java.time.LocalDate;
 /**
  *
- * @author anita
+ * @author peter muwonge
  */
 public class DatabaseHelper {
     

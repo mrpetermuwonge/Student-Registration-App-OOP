@@ -5,7 +5,7 @@ import java.io.IOException;
 
 /**
  *
- * @author anita
+ * @author peter muwonge
  */
 public class CSVHelper {
     

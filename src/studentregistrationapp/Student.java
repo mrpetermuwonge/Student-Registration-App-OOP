@@ -2,7 +2,7 @@ package studentregistrationapp;
 
 /**
  *
- * @author anita
+ * @author peter muwonge
  */
 public class Student {
     private String id;
